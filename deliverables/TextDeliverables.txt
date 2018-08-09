@@ -1,0 +1,14 @@
+ <resource>
+        <name>Nordstrom Pacific Centre</name>
+        <address>CF Pacific Centre, 799 Robson St, Vancouver, BC V7Y 0A2</address>
+        <location>
+            <lat>49.282729</lat>
+            <lon>-123.120738</lon>
+        </location>
+        <webaddress>http://shop.nordstrom.com/st/nordstrom-pacific-centre</webaddress>
+        <phone>604-699-2100</phone>
+        <services>
+            <service>Youth</service>
+            <service>Shelter</service>
+        </services>
+    </resource>
